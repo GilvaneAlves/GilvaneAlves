@@ -1,3 +1,5 @@
+![Em transição de carreira](https://img.shields.io/badge/Em%20transição%20de%20carreira-Front--End%20Developer-blueviolet?style=for-the-badge)
+
 # 👨‍💻 Gilvane Alves
 
 Desenvolvedor Front-End em transição de carreira, com background sólido em logística.  
@@ -33,15 +35,19 @@ Atualmente, estou em transição de carreira e buscando oportunidades como **Des
 
 ---
 
-📫 **Conecte-se comigo:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvane-alves-dias/)  
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvane-alves-dias/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999709417)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilwanealwes@gmail.com)
+
 📁 **Confira meus projetos aqui no GitHub!**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilvaneAlves&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilvaneAlves&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneAlves&hide_progress=true)
 
 ---
