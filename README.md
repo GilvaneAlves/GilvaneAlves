@@ -1,4 +1,5 @@
-![Em transição de carreira](https://img.shields.io/badge/Em%20transição%20de%20carreira-Front--End%20Developer-blueviolet?style=for-the-badge)
+![Desenvolvedor Front-End](https://img.shields.io/badge/Desenvolvedor-Front--End-blue?style=for-the-badge)
+
 
 # 👨‍💻 Gilvane Alves
 
