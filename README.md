@@ -1,55 +1,72 @@
 ![Desenvolvedor Front-End](https://img.shields.io/badge/Desenvolvedor-Front--End-blue?style=for-the-badge)
 
+# 👨‍💻 Gilvane Alves Dias
 
-# 👨‍💻 Gilvane Alves
+Sou **Desenvolvedor Front-End em transição de carreira**, trazendo comigo **disciplina, organização e liderança** adquiridas ao longo de minha experiência em logística e telecomunicações.  
 
-Desenvolvedor Front-End em transição de carreira, com background sólido em logística.  
-Aos 41 anos, estou focado em criar interfaces organizadas, funcionais e com ótima experiência para o usuário.
+Tenho experiência sólida em **HTML, CSS, JavaScript, React e Firebase**, desenvolvendo interfaces **responsivas, funcionais e com foco na experiência do usuário e na performance das aplicações**.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🎓 Formação e Cursos
 
-<div style="display: flex; gap: 8px;">
+- Ensino Médio em andamento – Instituto Mix  
+- Desenvolvedor Front-End – DevClub  
+- Marketing Digital – Hotmart  
+- Logística – SENAI  
+- Cursos complementares: Excelência Operacional, Distribuição Física, Indústria 4.0, Operação de Empilhadeira  
+
+---
+
+## 💼 Experiência Profissional
+
+- **Supervisor de Redes – Fonseca Telecomunicações**  
+  Liderança de equipes técnicas, gestão de projetos de infraestrutura de rede e garantia de cumprimento de prazos.
+
+- **Conferente de Cargas – Lojas Quero Quero**  
+  Controle e conferência de mercadorias, organização logística e otimização de processos.
+
+---
+
+## 🚀 Tecnologias e Habilidades
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
----
-
-## 💼 Da logística para a tecnologia
-
-- Raciocínio lógico e visão analítica  
-- Organização, disciplina e resiliência  
-- Trabalho sob pressão e foco em resultados  
-- Habilidade em equipe e melhoria contínua  
+**Habilidades complementares:** gestão de equipes, comunicação eficaz, organização logística, resolução de problemas e desenvolvimento de aplicações web.
 
 ---
 
-## 🎯 Em busca de novas oportunidades
+## 📂 Projetos em Destaque
 
-Atualmente, estou em transição de carreira e buscando oportunidades como **Desenvolvedor Front-End** em ambientes que valorizem aprendizado, colaboração e crescimento.
+- [ScannerQQ](https://github.com/GilvaneAlves/ScannerQQ) – PWA para escaneamento de produtos, integrando leitura de código de barras com JSON e sites externos.  
+- [NumSort](https://github.com/GilvaneAlves/NumSort) – Gerador de números aleatórios único.  
+- [DevMovies](https://github.com/GilvaneAlves/DevMovies) – Catálogo de filmes consumindo API externa.
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvane-alves-dias/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999709417)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvane-alves-dias/)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551999709417)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilwanealwes@gmail.com)
-
-📁 **Confira meus projetos aqui no GitHub!**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilvaneAlves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneAlves&hide_progress=true)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilvaneAlves&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneAlves&hide_progress=true)
+</div>
 
 ---
 
