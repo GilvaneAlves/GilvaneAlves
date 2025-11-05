@@ -1,29 +1,34 @@
-![Desenvolvedor Front-End](https://img.shields.io/badge/Desenvolvedor-Front--End-blue?style=for-the-badge)
+![Desenvolvedor Full Stack](https://img.shields.io/badge/Desenvolvedor-Full--Stack-blue?style=for-the-badge)
 
 # 👨‍💻 Gilvane Alves Dias
 
-Sou Desenvolvedor Full Stack em transição de carreira, aplicando disciplina, organização e liderança adquiridas ao longo da minha experiência em logística e telecomunicações.
-Tenho experiência sólida em HTML, CSS, JavaScript, React, Node.js e Firebase, desenvolvendo aplicações completas, com interfaces responsivas e back-end integrados, sempre com foco em performance, escalabilidade e experiência do usuário
+Sou **Desenvolvedor Full Stack**, unindo a **disciplina, liderança e pensamento analítico** adquiridos na minha trajetória em **logística e telecomunicações** à **paixão por tecnologia e desenvolvimento de software**.  
+Tenho sólida experiência em **HTML, CSS, JavaScript, React, Node.js e Firebase**, criando **aplicações completas e escaláveis**, com foco em **performance, experiência do usuário e boas práticas de desenvolvimento**.  
+Sou movido por **resolver problemas do mundo real com tecnologia**, criando soluções que simplificam processos e agregam valor.
 
 ---
 
 ## 🎓 Formação e Cursos
 
-- Ensino Médio em andamento – Instituto Mix  
-- Desenvolvedor Full-Stack – DevClub  
-- Marketing Digital – Hotmart  
-- Logística – SENAI  
-- Cursos complementares: Excelência Operacional, Distribuição Física, Indústria 4.0, Operação de Empilhadeira  
+- **Ensino Médio em andamento** – Instituto Mix  
+- **Desenvolvedor Full Stack** – DevClub  
+- **Marketing Digital** – Hotmart  
+- **Logística** – SENAI  
+- **Cursos complementares:** Excelência Operacional, Distribuição Física, Indústria 4.0 e Operação de Empilhadeira  
 
 ---
 
 ## 💼 Experiência Profissional
 
 - **Supervisor de Redes – Fonseca Telecomunicações**  
-  Liderança de equipes técnicas, gestão de projetos de infraestrutura de rede e garantia de cumprimento de prazos.
+  Liderança de equipes técnicas e coordenação de projetos de infraestrutura e conectividade.  
+  Planejamento e execução de soluções envolvendo **instalação de redes, roteamento, automação de processos e monitoramento de desempenho**, habilidades que contribuíram para minha base lógica e pensamento estruturado — essenciais no desenvolvimento de sistemas Full Stack.  
+  Além disso, atuei com **documentação técnica**, **análise de indicadores** e **gestão de tarefas em equipe**, práticas diretamente relacionadas a metodologias ágeis e controle de versionamento.
 
-- **Conferente de Cargas – Lojas Quero Quero**  
-  Controle e conferência de mercadorias, organização logística e otimização de processos.
+- **Conferente de Cargas – Lojas Quero-Quero**  
+  Responsável pelo **controle de estoque e rastreabilidade de produtos**, utilizando sistemas de gestão e processos padronizados.  
+  Essa experiência me trouxe visão prática sobre **integração de dados**, **organização de fluxos**, **análise de informações** e **otimização de processos** — fundamentos aplicados hoje no desenvolvimento de back-ends e bancos de dados.  
+  Foi neste contexto que surgiu minha **iniciativa tecnológica**: identifiquei a necessidade de **consultar produtos sem depender de computadores físicos**, o que me levou a criar o **Scanner de Produtos – PWA mobile**.
 
 ---
 
@@ -35,6 +40,7 @@ Tenho experiência sólida em HTML, CSS, JavaScript, React, Node.js e Firebase, 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
@@ -44,16 +50,30 @@ Tenho experiência sólida em HTML, CSS, JavaScript, React, Node.js e Firebase, 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
+### 🧩 Habilidades Complementares
 
-**Habilidades complementares:** gestão de equipes, comunicação eficaz, organização logística, resolução de problemas e desenvolvimento de aplicações web.
+- Gestão de equipes e **colaboração em ambientes ágeis (Scrum/Kanban)**  
+- **Comunicação clara** e foco em **resolução de problemas complexos**  
+- Organização e **planejamento de tarefas com visão sistêmica**  
+- **Integração de dados**, controle de versionamento e documentação técnica  
+- Atenção a detalhes e **foco em qualidade de código e experiência do usuário**  
+- Adaptação rápida a novas tecnologias e **aprendizado contínuo**  
+- **Iniciativa e visão de produto**, aplicando soluções tecnológicas para problemas reais  
 
 ---
 
 ## 📂 Projetos em Destaque
 
-- [ScannerQQ](https://github.com/GilvaneAlves/ScannerQQ) – PWA para escaneamento de produtos, integrando leitura de código de barras com JSON e sites externos.  
-- [NumSort](https://github.com/GilvaneAlves/NumSort) – Gerador de números aleatórios único.  
-- [DevMovies](https://github.com/GilvaneAlves/DevMovies) – Catálogo de filmes consumindo API externa.
+- 🔹 [**Scanner de Produtos – Quero-Quero**](https://github.com/GilvaneAlves/GilvaneAlves)  
+  **Projeto idealizado e desenvolvido por mim durante meu trabalho no Centro de Distribuição da Lojas Quero-Quero.**  
+  Identifiquei um problema: quando as etiquetas com SKU se perdiam, era necessário se deslocar até um computador para consultar o EAN e identificar o produto.  
+  Criei uma solução **PWA mobile**, permitindo **consultar produtos diretamente pelo celular**, sem necessidade de deslocamento.  
+  O projeto foi **alugado temporariamente e posteriormente vendido**, mostrando viabilidade real de mercado.  
+  Desenvolvido com **HTML, CSS, JavaScript e Firebase**, com foco em **usabilidade, performance e funcionalidade multiplataforma**.
+
+- 🔹 [**ScannerQQ**](https://github.com/GilvaneAlves/ScannerQQ) – PWA para escaneamento de produtos com leitura via câmera e integração com JSON local.  
+- 🔹 [**NumSort**](https://github.com/GilvaneAlves/NumSort) – Gerador de números aleatórios único e responsivo.  
+- 🔹 [**DevMovies**](https://github.com/GilvaneAlves/DevMovies) – Catálogo de filmes com consumo de API externa.
 
 ---
 
@@ -68,8 +88,8 @@ Tenho experiência sólida em HTML, CSS, JavaScript, React, Node.js e Firebase, 
 ## 📊 Estatísticas do GitHub
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilvaneAlves&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneAlves&hide_progress=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=GilvaneAlves&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvaneAlves&layout=compact&theme=radical" height="160"/>
 </div>
 
 ---
