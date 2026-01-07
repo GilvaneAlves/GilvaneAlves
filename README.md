@@ -1,18 +1,23 @@
 # Gilvane Alves Dias — Desenvolvedor Full Stack
 
-Desenvolvedor Full Stack com experiência prática em aplicações web completas, integrando **frontend, backend e dados**.  
-Trago uma base sólida de **processos, análise e liderança**, construída em logística e telecomunicações, aplicada hoje no **desenvolvimento de soluções reais, funcionais e escaláveis**.
+Sou Desenvolvedor Full Stack Júnior, focado na criação de aplicações web completas, com atenção a desempenho, usabilidade e impacto real para o negócio.  
 
-Atuação focada em **resolver problemas operacionais com tecnologia**, priorizando **clareza de código, usabilidade e entrega**.
+Atuo no desenvolvimento Front-end, Back-end e PWAs, entregando soluções funcionais validadas em produção.  
+
+Tenho experiência prática com JavaScript, React, Node.js e APIs REST, além de bancos de dados relacionais e não relacionais, aplicando boas práticas de código, organização e arquitetura.
 
 ---
 
 ## 🧠 Resumo Técnico
 
-- Desenvolvimento Full Stack com **JavaScript, React e Node.js**
-- Experiência com **APIs REST, autenticação e separação de camadas**
-- Criação de **PWAs e aplicações orientadas a uso real**
-- Forte base em **processos, análise de dados e documentação técnica**
+-Desenvolvedor Full Stack JavaScript com experiência em React e Node.js.  
+
+-Criação de PWAs mobile-first, aplicações web eficientes e soluções orientadas ao usuário.  
+
+-Integração e consumo de APIs REST, autenticação e separação de camadas.  
+
+-Foco em componentização, performance, testes e documentação técnica.  
+
 
 ---
 
@@ -43,6 +48,41 @@ Atuação focada em **resolver problemas operacionais com tecnologia**, prioriza
 
 ## 🚀 Projetos em Destaque
 
+###🔹 Scanner de Produtos — Quero-Quero (PWA)
+
+📌 Descrição:
+Aplicativo web PWA desenvolvido para leitura e busca de produtos via EAN e SKU, criado a partir de um gargalo operacional real nas Lojas Quero-Quero.
+
+A solução levou a consulta de produtos direto para o ponto de operação, eliminando deslocamentos até computadores fixos e reduzindo erros no processo de separação (picking).
+
+🛠 Solução técnica e melhorias:
+
+Leitura de códigos EAN e SKU via câmera (Web APIs)
+
+Busca instantânea em base local JSON, sem depender de conexão de rede
+
+Modos Scanner (mobile-first) e Desktop
+
+Implementação como PWA, com cache e uso contínuo
+
+Botão de busca direta no site da Quero-Quero pelo SKU, agilizando conferência visual
+
+Botão para acessar os últimos 5 produtos consultados, facilitando revisitar pesquisas recentes
+
+📈 Impacto validado em operação:
+
+~60% de redução no tempo de consulta
+
+~40–50% de redução de erros de separação
+
+Aumento da produtividade e confiabilidade do processo
+
+💡 Resultado:
+Projeto validado em ambiente real e posteriormente adquirido pelas Lojas Quero-Quero, comprovando aplicabilidade e valor prático.
+https://github.com/GilvaneAlves/APP-QQ
+
+---
+
 ### 🔹 DevBurguer — Interface + API (Full Stack)
 📌 **Problema:**  
 Simular um fluxo completo de pedidos para um negócio de delivery, separando claramente **frontend e backend**, como em aplicações reais.
@@ -66,24 +106,7 @@ Desenvolvimento de uma aplicação Full Stack com:
 
 ---
 
-### 🔹 Scanner de Produtos — Quero-Quero (PWA)
-📌 **Problema real:**  
-Perda de etiquetas SKU exigia deslocamento até computadores fixos para identificação de produtos no centro de distribuição.
 
-🛠 **Solução:**  
-Desenvolvimento de uma **PWA mobile** para consulta de produtos diretamente pelo celular, eliminando deslocamentos desnecessários.
-
-⚙️ **Tecnologias:**  
-HTML, CSS, JavaScript, Firebase
-
-📈 **Impacto:**  
-- Otimização de tempo operacional  
-- Uso direto em ambiente real  
-- Projeto **alugado temporariamente e posteriormente vendido**, validando viabilidade prática  
-
-🔗 Repositório: https://github.com/GilvaneAlves/GilvaneAlves
-
----
 
 ### 🔹 DevMovies
 📌 Catálogo de filmes com consumo de API externa e interface responsiva.  
